@@ -1,3 +1,11 @@
+clara (0.20190318-0sci8u1) scibian8; urgency=medium
+
+  * Fix v1 milestone issues.
+  * New Release 0.20190318
+ 
+
+ -- AMIROUCHE Said <said-externe.amirouche@edf.fr>  Mon, 18 Mar 2019 18:08:15 +0100
+
 clara (0.20190116-0sci8u1) scibian8; urgency=medium
 
   * New upstream version 0.20190116.
