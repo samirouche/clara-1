@@ -1,0 +1,2 @@
+usr/lib/*/dist-packages/clara/plugins/clara_show.py
+example-conf/config_default.ini usr/share/clara/config.ini
